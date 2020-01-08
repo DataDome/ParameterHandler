@@ -1,3 +1,5 @@
+To be removed when https://datadome.atlassian.net/browse/DASBO-2625 hits production.
+
 # Managing your ignored parameters with Composer
 
 This tool allows you to manage your ignored parameters when running a composer
